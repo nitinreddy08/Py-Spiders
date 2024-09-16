@@ -1,1 +1,2 @@
-print('nitin reddy')
+print('hello')
+age =int(input('enter age:'))
