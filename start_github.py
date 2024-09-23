@@ -5,3 +5,4 @@ if age>16:
 else:
   print('minor')
 print('thannks for visiting')
+print('qwdhbqbww')
