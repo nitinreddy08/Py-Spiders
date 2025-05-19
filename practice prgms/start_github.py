@@ -1,8 +1,3 @@
-print('hello')
-age =int(input('enter age:'))
-if age>16:
-  print('major')
-else:
-  print('minor')
-print('thannks for visiting')
-print('qwdhbqbww')
+name='nitin'
+new=name.replace('nitin','Python')
+print(new)
